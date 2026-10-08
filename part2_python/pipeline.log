@@ -1,0 +1,7 @@
+2026-10-08 18:46:55 - INFO - __main__ - Logging started successfully.
+2026-10-08 18:46:56 - INFO - __main__ - Raw CSV file loaded successfully: 48204 rows and 9 columns.
+2026-10-08 18:46:57 - WARNING - __main__ - Modified 48204 rows in 'weather_description'. Reason: standardised categorical values by removing extra spaces and standardising capitalisation.
+2026-10-08 18:46:57 - INFO - __main__ - All date/time values parsed successfully.
+2026-10-08 18:46:57 - WARNING - __main__ - Dropped 17 duplicate rows. Reason: duplicate records were identified.
+2026-10-08 18:46:58 - WARNING - __main__ - Dropped 10 rows. Reason: temperature value of 0 was identified as an invalid/impossible reading.
+2026-10-08 18:47:01 - INFO - __main__ - Data cleaning completed successfully. Categorical values were standardised, date/time fields validated, duplicates removed, and invalid values handled.

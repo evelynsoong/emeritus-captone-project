@@ -1,0 +1,5 @@
+2026-10-08 21:27:11 - INFO - __main__ - Logging started successfully.
+2026-10-08 21:27:12 - INFO - __main__ - Raw CSV file loaded successfully: 48176 rows and 30 columns.
+2026-10-08 21:27:13 - INFO - __main__ - Figure saved successfully: average_hourly_traffic.png
+2026-10-08 21:27:15 - INFO - __main__ - Figure saved successfully: weekday_weekend_histogram.png
+2026-10-08 21:27:16 - INFO - __main__ - Figure saved successfully: rainfall_traffic.png
