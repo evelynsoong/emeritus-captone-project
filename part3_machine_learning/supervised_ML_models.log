@@ -1,9 +1,11 @@
-2026-10-09 16:20:56 - INFO - __main__ - Logging started successfully.
-2026-10-09 16:21:01 - INFO - __main__ - Raw CSV file loaded successfully: 48176 rows and 38 columns.
-2026-10-09 16:21:01 - INFO - __main__ - MILESTONE 1: Training Logistic Regression Classification model
-2026-10-09 16:21:05 - INFO - __main__ - MILESTONE: Logistic Regression Classification Model and scaler saved successfully
-2026-10-09 16:21:05 - INFO - __main__ - MILESTONE 2: Training Classification- decision tree model
-2026-10-09 16:24:53 - INFO - __main__ - MILESTONE 2: Training Classification- SVM model
-2026-10-09 16:25:31 - INFO - __main__ - MILESTONE: Classification - SVM Model and scaler saved successfully
-2026-10-09 16:51:34 - INFO - __main__ - MILESTONE 3: Training Regression - linear model
-2026-10-09 16:59:12 - INFO - __main__ - MILESTONE: Regression linear model and scaler saved successfully
+2026-10-09 17:07:50 - INFO - __main__ - Logging started successfully.
+2026-10-09 17:07:53 - INFO - __main__ - Raw CSV file loaded successfully: 48176 rows and 38 columns.
+2026-10-09 17:07:54 - INFO - __main__ - MILESTONE 1: Training Logistic Regression Classification model
+2026-10-09 17:07:57 - INFO - __main__ - MILESTONE: Logistic Regression Classification Model and scaler saved successfully
+2026-10-09 17:07:57 - INFO - __main__ - MILESTONE 2: Training Classification- SVM model
+2026-10-09 17:08:04 - INFO - __main__ - MILESTONE: Classification - SVM Model and scaler saved successfully
+2026-10-09 17:08:07 - INFO - __main__ - MILESTONE 3: Training Regression - linear model
+2026-10-09 17:08:12 - INFO - __main__ - MILESTONE: Regression linear model and scaler saved successfully
+2026-10-09 17:08:13 - INFO - __main__ - MILESTONE 4: Training Regression - logstic model
+2026-10-09 17:13:45 - INFO - __main__ - MILESTONE: Regression logistic model and scaler saved successfully
+2026-10-09 17:20:04 - INFO - __main__ - MILESTONE: Regression random forest model saved successfully
