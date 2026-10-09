@@ -1,0 +1,6 @@
+2026-10-09 19:55:52 - INFO - __main__ - Logging started successfully.
+2026-10-09 19:55:53 - INFO - __main__ - Raw CSV file loaded successfully: 48176 rows and 38 columns.
+2026-10-09 19:55:54 - INFO - __main__ - MILESTONE 1: Training Kmeans clustering model
+2026-10-09 19:56:28 - INFO - __main__ - MILESTONE: Kmeans clustering Model saved successfully
+2026-10-09 19:56:28 - INFO - __main__ - MILESTONE 2: Association rules mining
+2026-10-09 19:56:37 - INFO - __main__ - MILESTONE: Association mining successfully completed
